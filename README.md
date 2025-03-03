@@ -10,3 +10,10 @@
 - ### Mac
 
   - 下载并安装即可
+
+- ### Linux
+
+  ```shell
+  sudo dpkg -i typora_1.6.6_amd64.deb
+  python hack_typora_linux.py
+  ```
